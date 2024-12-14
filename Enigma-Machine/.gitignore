@@ -3,3 +3,4 @@ build/
 data/
 output/
 .vs/*
+out/build/x64-Debug
